@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Pan
+- Salame
+- Queso
+  -Pategrás
+  -Brie
+-Aceitunas
