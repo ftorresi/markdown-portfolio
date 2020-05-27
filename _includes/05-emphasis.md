@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Among my _most remarkable **traits**_, I take pride in my **sense of responsibilty**, __eagerness to learn__ and ***easy-going* personality**. 
